@@ -1,5 +1,5 @@
 function MarvelService(){
-  var key = '?apikey=e44062bbc76b37176b08325d5265a0f3';
+  var key = '?apikey=19d061ac2b7d2fa320fe8c8ec5107b92';
   var baseUrl = 'http://gateway.marvel.com/v1/public/'
   
   var marvelCharacters = [];
